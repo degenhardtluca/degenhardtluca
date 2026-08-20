@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @degenhardtluca
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java in my university studies
-- 📫 How to reach me: via git
+- 🌱 I’m currently learning java in my apprenticeship in public service
+- 📫 How to reach me: ya dont
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: idk what im doing here...
 
